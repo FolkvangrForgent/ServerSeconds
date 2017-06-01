@@ -1,0 +1,7 @@
+## Interface: 70200
+## Title: Server Seconds
+## Notes: A simple pull addon. Use /spull help or /simplepull help for more info. 
+## Author: Forgent
+## Version: 0.5
+
+core.lua
