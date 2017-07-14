@@ -1,6 +1,6 @@
 ## Interface: 70200
 ## Title: Server Seconds
-## Notes: A simple pull addon. Use /spull help or /simplepull help for more info. 
+## Notes: Calculates Seconds for Server-Time
 ## Author: Forgent
 ## Version: 0.5
 
