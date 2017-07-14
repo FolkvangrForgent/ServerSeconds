@@ -1,7 +1,7 @@
 ## Interface: 70200
 ## Title: Server Seconds
-## Notes: Calculates Seconds for Server-Time
+## Notes: Calculates Seconds for Server-Time use /showservertime or /stime to show the current calculated server time. (inaccurate until a minute has passed)
 ## Author: Forgent
-## Version: 0.5
+## Version: 1
 
 core.lua
